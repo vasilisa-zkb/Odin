@@ -1,4 +1,9 @@
 # Odin
-The Odin Project$
+The Odin Project
 
-[Odin Recipes](./odin-recipes.html)
+small website design.
+
+
+[Odin Recipes](./index.html)
+
+
